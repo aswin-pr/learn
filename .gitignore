@@ -1,0 +1,7 @@
+# .gitignore
+.env
+node_modules
+**/*.mp3
+**/*.mp4
+userdatabase.sqlite
+uploads
